@@ -1,10 +1,9 @@
 # Human Resource System (Employee & Internship)
 
  # Login Credentials
- `username`: `Vendetta`
- 'password': `vendetta`
+Username : Vendetta
+Password : vendetta
 
- Or
- 
- `username`: `Barry`
-`password` : `barry`
+other account
+Username : Barry
+Password : barry
